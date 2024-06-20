@@ -19,10 +19,10 @@
 | Muhammad Fikri       | A412D4KY3566   | Mobile Development   | Sekolah Tinggi Teknologi Dumai   |  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/mhdfikri44/)  |
 
 ### Documemtation
-![ChiliDOc](...)
+![ChiliDOc](aset/capstone.jpg)
 
 ### Dataset Links of This Project :
-[Dataset](...)
+[Dataset](https://github.com/NndWicaksono/BANGKIT-Capstone-Project)
 
 ### Link App Demo :
 [Demo App](...)
@@ -32,3 +32,5 @@
 
 ### Link Youtube :
 [Youtube](...)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNE5ozEhtIpN1MzFcIkIYLN1g-m0EJB98B66hewQpanEGf-D7tXPE31Rc&s=10" alt="Logo" style="float: right; margin-left: 40px; width: 200px;"/>
